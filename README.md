@@ -10,3 +10,7 @@ R (version 3.4.2) was used to create a model to classify the mushroom samples as
   2. rpart and rpart.plot: These packages are used to create tree based models and make their visualisations.
   3. randomForest: This package is used to train the model in this problem.
   4. caret: caret package is used to perform cross validation.
+
+### Note:
+The file mushroom_predictions.csv contains the predictions 'edible or poisonous' for the dataset mushroom_test.csv.
+Also, the jupyter notebook, 'Rohit_Singhal_Mushroom.ipynb', contains the R code as well as the approach and explanation.
